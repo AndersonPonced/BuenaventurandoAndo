@@ -1,0 +1,107 @@
+body {
+  background-color: #232323;
+}
+
+h1,p {
+
+  color: white;
+
+}
+
+@media (max-width: 575px) {
+
+  footer {
+
+   display: none;}
+
+ .texto {
+
+  display: none;    }
+
+   .fuera {
+
+    height: 10px;     }
+
+}
+
+
+
+
+
+.fuera {
+
+   text-align: center;
+
+
+}
+
+.logito {
+
+
+  padding: 10px;
+  border-radius: 20px;
+  margin-bottom: 10px;
+  border: 1px solid #1f53c5;
+  color: black;
+  margin: 10px 0;
+  background-color: #C2C1C1;
+  text-align: center;
+  top: 100%;
+   float: none;
+  text-decoration: none;
+
+
+
+}
+
+.letra {
+
+  color: white;
+  text-decoration: none;
+}
+
+.logito:hover {
+
+  background-color: #ADADAD;
+  font-size: 17px;
+   transition-duration: 0.1s;
+
+}
+
+
+footer  {
+
+   text-decoration-color: white;
+   background-color: #414141;
+   width: 1330px;
+   height: 300px;
+   border: 2px solid #1f53c5;
+
+}
+
+
+.logoss {
+  float: right;
+}
+
+.inspng {
+
+    float: left;
+    height: 60px;
+
+
+}
+
+.gmail {
+
+  float: left;
+  height: 40px;
+
+}
+
+.youu {
+
+ float: left;
+ height: 60px;
+
+}
